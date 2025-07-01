@@ -2,7 +2,7 @@ package BOJ;
 
 import java.io.*;
 
-/*
+/**
  * 2025.06.27
  * 중앙 이동 알고리즘 (Bronze 3)
  * Math

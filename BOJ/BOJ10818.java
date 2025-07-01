@@ -3,7 +3,7 @@ package BOJ;
 import java.io.*;
 import java.util.StringTokenizer;
 
-/*
+/**
  * 2025.06.27
  * 최소, 최대 (Bronze 2)
  * Math
